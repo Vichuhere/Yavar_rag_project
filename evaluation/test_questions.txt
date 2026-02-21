@@ -1,0 +1,9 @@
+# Evaluation questions for the RAG system
+# Add one question per line. Lines starting with # are ignored.
+# Replace these placeholders with questions relevant to your document.
+
+What is the main topic of this document?
+What are the key findings or conclusions?
+Who are the authors or main contributors?
+What methodology was used?
+What is the document's primary recommendation?
