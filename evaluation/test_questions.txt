@@ -2,8 +2,17 @@
 # Add one question per line. Lines starting with # are ignored.
 # Replace these placeholders with questions relevant to your document.
 
-What is the main topic of this document?
-What are the key findings or conclusions?
-Who are the authors or main contributors?
-What methodology was used?
-What is the document's primary recommendation?
+***Questions that are in BG Economics survey***
+
+What was the unemployment rate in December 2025?
+What was MSME credit growth in November 2025?
+What was the IIP growth rate in December 2025?
+What were India’s total exports in FY25?
+What was the CRAR ratio of scheduled commercial banks?
+What sector is the dominant growth engine?
+What sector is the dominant growth engine?
+
+**Questions that are not in the document***
+
+what is the capital of Japan?
+Who is prime minister of India?
